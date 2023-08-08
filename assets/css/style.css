@@ -219,7 +219,7 @@ h6 {
   height: 2px;
   bottom: -5px;
   left: 0;
-  background-color: #34b7a7;
+  background-color: #9634b7;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -374,7 +374,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #34b7a7;
+  color: #9634b7;
 }
 
 .navbar-mobile .getstarted,
@@ -409,7 +409,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #34b7a7;
+  color: #9634b7;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -463,11 +463,11 @@ h6 {
   transition: 0.5s;
   margin-top: 30px;
   color: #fff;
-  background: #34b7a7;
+  background: #967bb6;
 }
 
 #hero .btn-about:hover {
-  background: #3dc8b7;
+  background: #beaed2;
 }
 
 @media (min-width: 1024px) {
