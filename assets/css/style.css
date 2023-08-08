@@ -652,7 +652,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #34b7a7;
+  background-color: #9634b7;
 }
 
 /*--------------------------------------------------------------
@@ -709,7 +709,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #c8efea;
+  color: #ddc8ef;
   font-size: 26px;
 }
 
@@ -751,7 +751,7 @@ section {
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #34b7a7;
+  background-color: #9634b7;
 }
 
 /*--------------------------------------------------------------
