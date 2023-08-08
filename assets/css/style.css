@@ -90,7 +90,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #34b7a7;
+  background: #b73494;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -104,7 +104,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #49cbbb;
+  background: #ba6dcb;
   color: #fff;
 }
 
@@ -156,7 +156,7 @@ h6 {
 }
 
 .header-social-links a {
-  color: #6f6f6f;
+  color: #000000;
   padding-left: 6px;
   display: inline-block;
   line-height: 0px;
@@ -165,7 +165,7 @@ h6 {
 }
 
 .header-social-links a:hover {
-  color: #34b7a7;
+  color: #9634b7;
 }
 
 /*--------------------------------------------------------------
