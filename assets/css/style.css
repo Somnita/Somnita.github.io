@@ -652,7 +652,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #9634b7;
+  background-color: #9c4eb6;
 }
 
 /*--------------------------------------------------------------
@@ -747,7 +747,7 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #34b7a7;
+  border: 1px solid #000000;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
