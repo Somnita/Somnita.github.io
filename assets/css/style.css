@@ -506,7 +506,7 @@ section {
 }
 
 .section-bg {
-  background-color: #e7f8f6;
+  background-color: #faf9fc;
 }
 
 .section-title {
@@ -529,7 +529,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #34b7a7;
+  background: #9634b7;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -597,7 +597,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #555555;
+  color: #000000;
 }
 
 .about .content ul {
@@ -612,7 +612,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #34b7a7;
+  color: #9634b7;
 }
 
 .about .content p:last-child {
