@@ -147,7 +147,36 @@
             </div>
           </div>
         </div>
-
+        <style>
+          .btn-primary {
+            background-color: transparent;
+            border: 2px solid #000000;
+            color: #000000;
+            padding: 10px 20px;
+            position: relative;
+            overflow: hidden;
+          }
+        
+          .btn-primary:before {
+            content: "";
+            position: absolute;
+            top: -2px;
+            left: -2px;
+            right: -2px;
+            bottom: -2px;
+            border: 2px solid #000000;
+            pointer-events: none;
+          }
+        
+          .btn-transparent:hover {
+            background-color: rgba(187, 237, 227, 0.69);
+            color: #000000;
+            border: 2px solid #000000;
+          }
+        </style>
+        <div class="text-center">
+          <a href="#" download class="btn btn-primary btn-transparent">Download Resume</a>
+        </div>
       </div>
     </section><!-- End Resume Section -->
 
