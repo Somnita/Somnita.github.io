@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: #34b7a7;
+  color: #9634b7;
   text-decoration: none;
 }
 
 a:hover {
-  color: #51cdbe;
+  color: #a365b8;
   text-decoration: none;
 }
 
@@ -62,8 +62,8 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #34b7a7;
-  border-top-color: #dcf5f2;
+  border: 6px solid #a259ba;
+  border-top-color: #e5caee;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -506,7 +506,7 @@ section {
 }
 
 .section-bg {
-  background-color: #faf9fc;
+  background-color: #fcf3ff;
 }
 
 .section-title {
